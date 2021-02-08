@@ -9,5 +9,17 @@ public class Main {
 
         if (first >= 50)
             System.out.print("num is 10");
+
     }
+    public void result(int a, int b){
+       // int a = 2;
+       // int b;
+        int result = a +b;
+        return;
+    }
+
+
 }
+
+
+
